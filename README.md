@@ -1,4 +1,5 @@
-# code_quality_analysis-> Writr the source code to be parsed resides in a c file
+# Code Quality Analysis
+-> The source code to be parsed resides in a c file
 -> The program cfg.py consists of the CFG data type.
 -> The CfgNode data type is the node in the CFG, you can agument this node with necessary data to 
    compute relevant flow based metrics.
